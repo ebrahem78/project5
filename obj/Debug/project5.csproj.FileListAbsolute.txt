@@ -1,0 +1,8 @@
+C:\Users\laptop\source\repos\project5\project5\bin\Debug\project5.exe.config
+C:\Users\laptop\source\repos\project5\project5\bin\Debug\project5.exe
+C:\Users\laptop\source\repos\project5\project5\bin\Debug\project5.pdb
+C:\Users\laptop\source\repos\project5\project5\obj\Debug\project5.csproj.AssemblyReference.cache
+C:\Users\laptop\source\repos\project5\project5\obj\Debug\project5.csproj.SuggestedBindingRedirects.cache
+C:\Users\laptop\source\repos\project5\project5\obj\Debug\project5.csproj.CoreCompileInputs.cache
+C:\Users\laptop\source\repos\project5\project5\obj\Debug\project5.exe
+C:\Users\laptop\source\repos\project5\project5\obj\Debug\project5.pdb
